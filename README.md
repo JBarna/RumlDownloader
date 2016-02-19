@@ -13,5 +13,7 @@ You can specify multiple assignments to download
 ```
 node . 2 4 6-10`
 ```
-
 This will download assignment 2, 4, and 6 through 10.
+
+### Dependencies
+You must have node.js 5.0 or greater installed.
